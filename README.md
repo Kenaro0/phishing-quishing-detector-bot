@@ -105,5 +105,3 @@ A message is flagged as phishing when its total score reaches **3**.
 - **Rawah Alsaadi**: developed `bot.py` (Discord events, scanning workflow, automated response, security logging, Restore as Exception button, trusted roles, and commands)
 - **Shatha Sharaf**: developed `detector/phishing_detector.py` (text & URL analysis, keyword detection, brand impersonation checks, and risk scoring)
 - **Jehan Ayman**: developed `detector/qr_detector.py` (QR code decoding from image attachments using OpenCV)
-
-📄 Full details in the [Technical Report](docs/Technical_Report.docx).
