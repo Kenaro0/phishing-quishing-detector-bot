@@ -1,4 +1,4 @@
-# 🎣 Phishing & Quishing Detector Bot
+#  Phishing & Quishing Detector Bot
 
 A Discord bot that detects **phishing links** and **malicious QR codes (quishing)** in real time, deletes them, warns the channel, and logs every incident for moderators.
 
